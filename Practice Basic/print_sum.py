@@ -9,4 +9,4 @@ print(diff)
 '''hello i am miel mahmud sifat
  i am not comment 
  '''
-print(b**c)
+print(b**c
