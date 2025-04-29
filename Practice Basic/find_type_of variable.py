@@ -1,0 +1,15 @@
+name ="Miel MAhmud Sifat"
+f="c"
+age = 45
+price = 34.56
+m= 4.52346788
+print(type(name))
+print(type(age))
+print(type(price))
+print(type(m))
+print(type(f))
+
+
+
+
+
